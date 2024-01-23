@@ -1,4 +1,4 @@
-- Hi, I’m @miniblackTW
+- Hi, I’m @miniblack_TW
 - Learning javascript
 - A minecraft player
 - I can build a bridge very fast in minecraft 
