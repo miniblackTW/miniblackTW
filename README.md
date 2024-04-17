@@ -1,5 +1,5 @@
-I’m miniblack_TW
-I'm learning javascript<a/>
-I'm a Skript plugin developer<a/>
-I can write HTML Website</a>
-I'm the Owner ofBlackpvp.ttfmc.net
+I’m miniblack_TW,
+I'm learning javascript.
+I'm a Skript plugin developer.
+I can also write HTML Websites.
+I'm the Owner of Blackpvp.ttfmc.net.
