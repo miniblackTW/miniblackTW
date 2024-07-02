@@ -1,16 +1,16 @@
 # I’m miniblack_TW,
-A Basic Developer!
+- A Basic Developer!
 ## Skills:
-• Discord.js
-• HTML
-• CSS
-• JavaScript/Node.js
-• Skript (Minecraft)
+- • Discord.js
+- • HTML
+- • CSS
+- • JavaScript/Node.js
+- • Skript (Minecraft)
 ## Learning:
-• Python
-• Java
+- • Python
+- • Java
 ## Discord:
-• Group
-    ➤ https://dsc.gg/blackpvp-tw 
-• Username:
-    ➤ miniblack_tw#0
+- • Group
+-     ➤ https://dsc.gg/blackpvp-tw 
+- • Username:
+-     ➤ miniblack_tw#0
