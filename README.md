@@ -1,5 +1,16 @@
-I’m miniblack_TW,
-I'm learning javascript.
-I'm a Skript plugin developer.
-I can also write HTML Websites.
-I'm the Owner of Blackpvp.ttfmc.net.
+# I’m miniblack_TW,
+A Basic Developer!
+## Skills:
+• Discord.js
+• HTML
+• CSS
+• JavaScript/Node.js
+• Skript (Minecraft)
+## Learning:
+• Python
+• Java
+## Discord:
+• Group
+    ➤ https://dsc.gg/blackpvp-tw 
+• Username:
+    ➤ miniblack_tw#0
