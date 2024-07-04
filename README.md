@@ -10,7 +10,7 @@
 - Python
 - Java
 ## Discord:
-- Group
+- Server:
 -    ➤ https://dsc.gg/blackpvp-tw 
 - Username:
 -    ➤ miniblack_tw#0
