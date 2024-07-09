@@ -1,15 +1,15 @@
 <h1>Hi, I’m miniblack_TW</h1>
-<h3>A Basic Developer!/h3>
-<h1> Skills:<h1>
-<h3> Discord.js</h3>
+<h3>A Basic Developer!</h3>
+<h2> Skills:<h1>
+- Discord.js
 - HTML
 - CSS
 - Discord.js
 - Skript (Minecraft)
-## Learning:
+<h2> Learning:</h2>
 - Python
 - Java
-## Discord:
+<h2> Discord:</h2>
 - Server:
 -    ➤ https://dsc.gg/blackpvp-tw 
 - Username:
