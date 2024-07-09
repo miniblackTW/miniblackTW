@@ -1,4 +1,4 @@
-<font size="+3" style="color:gold;">Hi, I’m miniblack_TW</font>
+<font size="+3">Hi, I’m miniblack_TW</font>
 < A Basic Developer!
 ## Skills:
 - Discord.js
