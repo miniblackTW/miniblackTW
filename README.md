@@ -1,7 +1,7 @@
-<font size="+3">Hi, I’m miniblack_TW</font>
-< A Basic Developer!
-## Skills:
-- Discord.js
+<h1>Hi, I’m miniblack_TW</h1>
+<h3>A Basic Developer!/h3>
+<h1> Skills:<h1>
+<h3> Discord.js</h3>
 - HTML
 - CSS
 - Discord.js
