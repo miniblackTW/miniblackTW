@@ -1,5 +1,5 @@
-# I’m miniblack_TW,
-- A Basic Developer!
+<font size="+3" style="color:gold;">Hi, I’m miniblack_TW</font>
+< A Basic Developer!
 ## Skills:
 - Discord.js
 - HTML
