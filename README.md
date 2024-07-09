@@ -4,7 +4,7 @@
 - Discord.js
 - HTML
 - CSS
-- JavaScript/Node.js
+- Discord.js
 - Skript (Minecraft)
 ## Learning:
 - Python
