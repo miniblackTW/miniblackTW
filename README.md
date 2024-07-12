@@ -6,6 +6,7 @@
 - CSS
 - Discord.js
 - Skript (Minecraft)
+- Bukkit API (Minecraft)
 ## Learning:
 - Python
 - Java
