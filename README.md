@@ -10,6 +10,7 @@
 ## Learning:
 - Python
 - Java
+- C/C++
 ## Discord:
 - Server:
 -    ➤ https://dsc.gg/blackpvp-tw 
