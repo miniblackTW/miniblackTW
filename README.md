@@ -1,7 +1,6 @@
 # Hi, I’m miniblack_TW
 - A Basic Developer!
 ## Skills:
-- Discord.js
 - HTML
 - CSS
 - Discord.js
