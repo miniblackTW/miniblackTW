@@ -1,15 +1,15 @@
 # Hi, I’m miniblack_Tw
 - A Basic Developer!
 ## Skills:
-- HTML
-- CSS
-- Discord.js
+- HTML/CSS
+- JavaScript
+- DiscordJS
 - Skript (Minecraft)
+- Java
 - Bukkit API (Minecraft)
 ## Learning:
 - Python
-- Java
-- C/C++
+- ~~C/C++~~ I don't wanna learn it anymore lmao 
 ## Discord:
 - Server:
 -    ➤ https://dsc.gg/blackpvp-tw 
