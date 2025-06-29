@@ -9,7 +9,6 @@
 - Bukkit API (Minecraft)
 ## Learning:
 - Python
-- ~~C++~~ I don't wanna learn it anymore lmao 
 ## Discord:
 - Server:
 -    ➤ https://dsc.gg/blackpvp-tw 
