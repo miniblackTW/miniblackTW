@@ -9,6 +9,7 @@
 - Bukkit API (Minecraft)
 ## Learning:
 - Python
+- Shell Script
 ## Discord:
 - Server:
 -    ➤ https://dsc.gg/blackpvp-tw 
