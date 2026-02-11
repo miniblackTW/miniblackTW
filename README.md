@@ -1,5 +1,5 @@
 # Hi, this is mini
-- A Basic Developer!
+- A Basic Developer
 ## Skills:
 - HTML/CSS
 - JavaScript
