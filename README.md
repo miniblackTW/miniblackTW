@@ -1,4 +1,4 @@
-# Hi, I’m miniblack_Tw
+# Hi, this is mini
 - A Basic Developer!
 ## Skills:
 - HTML/CSS
