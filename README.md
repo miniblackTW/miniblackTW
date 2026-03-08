@@ -19,5 +19,5 @@
 ├── Server:
 │   └── https://dsc.gg/blackpvp-tw
 └── Username:
-    └── miniblack_tw#0
+    └── miniblack0662#0
 ```
