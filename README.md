@@ -1,4 +1,4 @@
-# Hi, this is mini
+# Hello, I'm mini
 
 ## Skills:
 ```
